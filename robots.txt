@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://kompas-media.github.io/berita/sitemap.xml
